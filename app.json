@@ -39,7 +39,7 @@
     },
     "SESSION": {
       "description": "Pyrogram string Seccion - https://replit.com/@JijinR/PyroSessionString?v=1",
-      "value": ""
+      "required": false
     }
   },
   "formation": {
