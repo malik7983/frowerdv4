@@ -18,7 +18,7 @@ class Bot(Client):
 
     def __init__(self):
         super().__init__(
-            session_name=SESSION,
+            session_name=Config SESSION,
             api_hash=Config.API_HASH,
             api_id=Config.API_ID,
             plugins={
